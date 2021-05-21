@@ -1,0 +1,25 @@
+h1 {
+    color: brown;
+    font-size: 70px;
+}
+
+#secondHeading {
+    color: green;
+    font-size: 50px;
+}
+
+div {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: purple;
+}
+
+#divTwo {
+    color: orange;
+}
+
+.subHeading {
+    color: blue;
+    font-size: 45px;
+
+}
